@@ -1,0 +1,46 @@
+.home-page-image {
+    text-align: center;
+}
+
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.gallery-btn {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 20px auto;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid white;
+  }
+  
+.gallery-btn:hover {
+    background-color: rgb(116, 0, 106);
+    color: black;
+    border: 1px solid black;
+
+}
+
+.gallery-btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.main-container {
+    text-align: center;
+}
+
+.gallerytxt {
+    text-align: center;
+}

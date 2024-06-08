@@ -1,0 +1,21 @@
+/* gallery.css */
+.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .photo-card {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    border-radius: 10px;
+    width: 25%;
+  }
+  
+  .photo-card p {
+    margin-top: 10px;
+  }
+  
